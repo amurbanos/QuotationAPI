@@ -1,4 +1,4 @@
-QuotationAPI
+QuotationAPI v1.0.0
 ============
 
 API em PHP para Cotação de Mercado Financeiro
